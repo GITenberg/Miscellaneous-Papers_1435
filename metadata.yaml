@@ -1,0 +1,30 @@
+_repo: Miscellaneous-Papers_1435
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Dickens, Charles
+    alias: Boz
+    birthdate: 1812
+    deathdate: 1870
+    gutenberg_agent_id: '37'
+    url: http://www.gutenberg.org/2009/agents/37
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Dickens
+description: ''
+gutenberg_issued: '1998-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1435'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Essays'
+- GITenberg
+tableOfContents: 'The agricultural interest -- Threatening letter to Thomas Hood from
+  an ancient gentleman -- Crime and education -- Capital punishment -- The spirit
+  of chivalry in Westminster Hall -- In memoriam: W. M. Thackeray -- Adelaide Anne
+  Procter -- Chauncey Hare Townshend -- On Mr. Fechter''s acting.'
+title: Miscellaneous Papers
+url: http://www.gutenberg.org/ebooks/1435
